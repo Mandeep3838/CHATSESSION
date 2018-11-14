@@ -1,10 +1,10 @@
-                                       ** Completed messenger app ***
+                                       ** Messenger App ***
 
 
 
                ***  Messenger app using socket programming implemented in python  ***
 ->  There are two main files in the folder namely: one for the Server and one for the Client.(Please use  Python3  to execute the above files.
--> Starting with the server file:\par
+-> Starting with the server file:
 -- First set the host ip in the server file to your ip address. ( This can be found using ipconfig in windows and ifconfig in linux. ) Eg, host="xxx.x.x.x" : ip of your wlan.
 -> Now, we are ready to execute the server script.
 ->Now, run the client script, which will then ask for two values:
