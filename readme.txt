@@ -20,7 +20,4 @@
 -> This will send message anonymously to raj.
 
 
--> Multiple users can connect and chat at the same time.   
-
-   
-
+-> Multiple users can connect and chat at the same time.
